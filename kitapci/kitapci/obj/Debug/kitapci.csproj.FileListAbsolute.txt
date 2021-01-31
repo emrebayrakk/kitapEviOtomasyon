@@ -1,0 +1,48 @@
+C:\Users\ewre\source\repos\kitapci\kitapci\bin\Debug\kitapci.exe.config
+C:\Users\ewre\source\repos\kitapci\kitapci\bin\Debug\kitapci.exe
+C:\Users\ewre\source\repos\kitapci\kitapci\bin\Debug\kitapci.pdb
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.csprojAssemblyReference.cache
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.Form1.resources
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.Properties.Resources.resources
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.csproj.GenerateResource.cache
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.csproj.CoreCompileInputs.cache
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.exe
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.pdb
+C:\Users\ewre\source\repos\kitapci\kitapci\bin\Debug\Bunifu.Core.dll
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.csproj.CopyComplete
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.Form2.resources
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.Form3.resources
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.Form4.resources
+C:\Users\ewre\source\repos\kitapci\kitapci\obj\Debug\kitapci.Form5.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\kitapci.exe.config
+D:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\kitapci.exe
+D:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\kitapci.pdb
+D:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\Bunifu.Core.dll
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csprojAssemblyReference.cache
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form1.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form2.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form3.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form4.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form5.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Properties.Resources.resources
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csproj.GenerateResource.cache
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csproj.CoreCompileInputs.cache
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csproj.CopyComplete
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.exe
+D:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.pdb
+E:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\kitapci.exe.config
+E:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\kitapci.exe
+E:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\kitapci.pdb
+E:\Projeler\Emre Bayrak\kitapci\kitapci\bin\Debug\Bunifu.Core.dll
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csprojAssemblyReference.cache
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form1.resources
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form2.resources
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form3.resources
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form4.resources
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Form5.resources
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.Properties.Resources.resources
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csproj.GenerateResource.cache
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csproj.CoreCompileInputs.cache
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.csproj.CopyComplete
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.exe
+E:\Projeler\Emre Bayrak\kitapci\kitapci\obj\Debug\kitapci.pdb
